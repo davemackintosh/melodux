@@ -1,2 +1,3 @@
-# melodux
-Swift UI Redux in a single file. 
+# Melodux
+
+A description of this package.
